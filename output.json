@@ -1,0 +1,124 @@
+[
+  {
+    "product": "smart tv",
+    "brand": ["Samsung", "LG"],
+    "specifications": {
+      "screen_size": "43 inch",
+      "resolution": "4K",
+      "display_type": "LED",
+      "quality_preference": "accha sa (good quality)"
+    },
+    "price": {
+      "max": 20000,
+      "currency": "INR"
+    },
+    "intent": "buy",
+    "purpose": "domestic"
+  },
+  {
+    "product": "chandan agarbatti",
+    "specifications": {
+      "packaging": "20 stick box"
+    },
+    "price": {
+      "value": 50,
+      "currency": "INR",
+      "unit": "per box"
+    },
+    "quantity": {
+      "amount": 1000,
+      "unit": "boxes"
+    },
+    "intent": "buy_wholesale",
+    "purpose": "commercial"
+  },
+  {
+    "product": "स्मार्ट टीवी (smart tv)",
+    "specifications": {
+      "screen_size": "43 इंच",
+      "resolution": "4K",
+      "display_type": "LED"
+    },
+    "price": {
+      "max": 20000,
+      "currency": "INR"
+    },
+    "intent": "buy",
+    "purpose": "domestic"
+  },
+  {
+    "product": "thermal imaging camera",
+    "brand": ["FLIR"],
+    "specifications": {
+      "model": "E8-XT",
+      "resolution": "320x240 IR",
+      "enhancement": "MSX",
+      "temperature_range": "-20 to 550 degree"
+    },
+    "intent": "search",
+    "purpose": "commercial"
+  },
+  {
+    "product": "sonamasoori steam rice",
+    "specifications": {
+      "age": "6 months old",
+      "packaging": "50 kg bag"
+    },
+    "price": {
+      "min": 1000,
+      "max": 1100,
+      "currency": "INR",
+      "unit": "per bag"
+    },
+    "intent": "buy_wholesale",
+    "purpose": "commercial"
+  },
+  {
+    "product": "ઈટ (brick)",
+    "brand": ["કંથરાઈ (Kanthrai)"],
+    "intent": "inquiry",
+    "purpose": "commercial"
+  },
+  {
+    "product": "silver laminate paper roll",
+    "specifications": {
+      "weight": "100 gsm"
+    },
+    "price": {
+      "value": 48,
+      "currency": "INR",
+      "unit": "per kg"
+    },
+    "location": ["moradabad", "noida", "nearby areas"],
+    "intent": "buy",
+    "purpose": "commercial"
+  },
+  {
+    "product": "corrugated cardboard box",
+    "specifications": {
+      "wall_type": "double wall",
+      "dimensions": "30x20x15 cm",
+      "layers": "3 ply",
+      "suitability": "fragile items"
+    },
+    "quantity": {
+      "amount": 500,
+      "unit": "pcs"
+    },
+    "intent": "buy",
+    "purpose": "commercial"
+  },
+  {
+    "product": "Half anna (vintage coin)",
+    "intent": "sell",
+    "purpose": "general"
+  },
+  {
+    "product": "సోలార్ ప్యానెల్ (solar panel)",
+    "specifications": {
+      "power": "500 వాట్ల (500 watts)"
+    },
+    "intent": "buy",
+    "purpose": "ఇంటి కోసం (domestic)"
+  }
+]
